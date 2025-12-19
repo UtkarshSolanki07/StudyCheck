@@ -164,6 +164,13 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 
 
 ## Screenshots
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/43eeb530-789a-41a1-9880-76a51df603e3" />
+<img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/df4c2b93-4661-4d42-92a1-055fb4582b40" />
+<img width="1886" height="1005" alt="image" src="https://github.com/user-attachments/assets/898a8c87-022c-4ce1-b96a-c816c50552b9" />
+<img width="1891" height="754" alt="image" src="https://github.com/user-attachments/assets/e5b78d6c-12ae-4674-99fa-bd93e3fbeae2" />
+<img width="1858" height="860" alt="image" src="https://github.com/user-attachments/assets/3c552581-a6b8-479c-80d6-2715ce2d5b6b" />
+
+
 
 
 
