@@ -20,8 +20,6 @@ A practical Streamlit application to explore how student habits relate to academ
 - [Reproducibility Checklist](#-reproducibility-checklist)
 - [Deployment Options](#-deployment-options)
 - [Screenshots](#-screenshots)
-- [Citation](#-citation)
-- [License](#-license)
 
 
 ## 📁 Repository Structure
@@ -165,20 +163,7 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 ```
 
 
-## Screenshots (suggested)
-
-Add screenshots/GIFs once the app is running locally:
-- Dashboard with metrics and recommendations
-- Target Planner with what-if sliders
-- Habit Tracker charts and correlation table
+## Screenshots
 
 
-## 📖 Citation
 
-If you use this repo as a starting point in a blog or course, please cite as:
-
-- *Student Success Companion: Habit-driven Performance Modeling with Streamlit (2025)*
-
-## 📄 License
-
-Specify a license for your project (e.g., MIT) if you intend to make it widely reusable.
